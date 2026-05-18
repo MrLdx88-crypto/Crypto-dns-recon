@@ -1,6 +1,6 @@
 # Crypto DNS Recon
 
-Simple and fast DNS reconnaissance tool for pentesting and bug bounty.
+Simple and fast DNS reconnaissance tool for pentesting.
 
 ---
 
